@@ -20,4 +20,4 @@ This project has an MIT License.
 
 ## Made by love
 
-- [Krypto Koin DAO](https://kk-ico.netlify.app/)
+- [Krypto Koin DAO](https://krypto-nft-dao.vercel.app/)
