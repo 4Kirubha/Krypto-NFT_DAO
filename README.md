@@ -1,15 +1,14 @@
 # This is my project title
 
-This sentence describes what my project is about summarized.
+DAO for NFT holders
 
 ## More Details
 
-I can explain how my project works here with different topics.
-
-## Upcoming
-
-- [x] I have done this activity
-- [ ] I plan to do this activity next
+Anyone with a KryptoKoins NFT can create a proposal to purchase a different NFT from an NFT marketplace.
+Everyone with a KryptoKoins NFT can vote for or against the active proposals.
+Each NFT counts as one vote for each proposal.
+Voter cannot vote multiple times on the same proposal with the same NFT.
+If majority of the voters vote for the proposal by the deadline, the NFT purchase is automatically executed.
 
 ## Contribution
 
@@ -21,5 +20,4 @@ This project has an MIT License.
 
 ## Made by love
 
-- [StarterTemplates](https://twitter.com/startertemp)
-- [LearnWeb3DAO](https://learnweb3.io)
+- [Krypto Koin DAO](https://kk-ico.netlify.app/)
