@@ -1,4 +1,4 @@
-# This is my project title
+# Project title
 
 DAO for NFT holders
 
